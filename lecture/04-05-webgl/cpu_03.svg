@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="720"
+   height="1280"
+   viewBox="0 0 720 1280"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="cpu_03.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#191919"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.66456989"
+     inkscape:cx="206.90074"
+     inkscape:cy="695.93884"
+     inkscape:window-width="1695"
+     inkscape:window-height="1145"
+     inkscape:window-x="3637"
+     inkscape:window-y="125"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="font-variation-settings:'wght' 800;fill:#063400;fill-opacity:0.288037;stroke:#119600;stroke-width:3;stroke-linejoin:bevel;stroke-opacity:1"
+       id="rect1"
+       width="295.0748"
+       height="115.76154"
+       x="52.462597"
+       y="413.2153"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.3333px;font-family:Inter;-inkscape-font-specification:'Inter, @wght=800';font-variation-settings:'wght' 800;fill:#ffffff;fill-opacity:1;stroke:#119600;stroke-width:3;stroke-linejoin:bevel;stroke-opacity:1"
+       x="199.248"
+       y="462.95206"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="199.248"
+         y="462.95206"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:32px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">Instruction</tspan><tspan
+         sodipodi:role="line"
+         x="199.248"
+         y="502.95206"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:32px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="tspan2">Fetch / Decode</tspan></text>
+    <rect
+       style="font-variation-settings:'wght' 800;fill:#341000;fill-opacity:0.288037;stroke:#962c00;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:normal"
+       id="rect2"
+       width="295.0748"
+       height="115.76154"
+       x="52.462597"
+       y="553.21533"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.3333px;font-family:Inter;-inkscape-font-specification:'Inter, @wght=800';font-variation-settings:'wght' 800;fill:#ffffff;fill-opacity:1;stroke:#119600;stroke-width:3;stroke-linejoin:bevel;stroke-opacity:1"
+       x="199.15198"
+       y="599.41608"
+       id="text4"><tspan
+         sodipodi:role="line"
+         x="199.15198"
+         y="599.41608"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:32px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="tspan4">Arithmetic</tspan><tspan
+         sodipodi:role="line"
+         x="199.15198"
+         y="639.41608"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:32px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="tspan5">Logic Unit (ALU)</tspan></text>
+    <rect
+       style="font-variation-settings:'wght' 800;fill:#001734;fill-opacity:0.288037;stroke:#004196;stroke-width:3.54822;stroke-linejoin:bevel;stroke-opacity:1"
+       id="rect5"
+       width="294.52658"
+       height="173.02115"
+       x="52.736706"
+       y="693.48944"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.3333px;font-family:Inter;-inkscape-font-specification:'Inter, @wght=800';font-variation-settings:'wght' 800;fill:#ffffff;fill-opacity:1;stroke:#119600;stroke-width:3;stroke-linejoin:bevel;stroke-opacity:1"
+       x="199.15198"
+       y="739.41608"
+       id="text7"><tspan
+         sodipodi:role="line"
+         x="199.15198"
+         y="739.41608"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:32px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="tspan7">Registers</tspan></text>
+    <rect
+       style="font-variation-settings:'wght' 800;fill:#90c2ff;fill-opacity:0.288037;stroke:#d5e7ff;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8"
+       width="81.665428"
+       height="26.629606"
+       x="62.896511"
+       y="761.87433"
+       rx="5"
+       ry="5" />
+    <rect
+       style="font-variation-settings:'wght' 800;fill:#90c2ff;fill-opacity:0.288037;stroke:#d5e7ff;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9"
+       width="81.665428"
+       height="26.629606"
+       x="63.070087"
+       y="793.88013"
+       rx="5"
+       ry="5" />
+    <rect
+       style="font-variation-settings:'wght' 800;fill:#90c2ff;fill-opacity:0.288037;stroke:#d5e7ff;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10"
+       width="81.665428"
+       height="26.629606"
+       x="63.243671"
+       y="825.62744"
+       rx="5"
+       ry="5" />
+    <rect
+       style="font-variation-settings:'wght' 800;fill:#90c2ff;fill-opacity:0.288037;stroke:#d5e7ff;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16"
+       width="81.665428"
+       height="26.629606"
+       x="158.8965"
+       y="761.87433"
+       rx="5"
+       ry="5" />
+    <rect
+       style="font-variation-settings:'wght' 800;fill:#90c2ff;fill-opacity:0.288037;stroke:#d5e7ff;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect17"
+       width="81.665428"
+       height="26.629606"
+       x="159.07008"
+       y="793.88013"
+       rx="5"
+       ry="5" />
+    <rect
+       style="font-variation-settings:'wght' 800;fill:#90c2ff;fill-opacity:0.288037;stroke:#d5e7ff;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18"
+       width="81.665428"
+       height="26.629606"
+       x="159.24367"
+       y="825.62744"
+       rx="5"
+       ry="5" />
+    <rect
+       style="font-variation-settings:'wght' 800;fill:#90c2ff;fill-opacity:0.288037;stroke:#d5e7ff;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect19"
+       width="81.665428"
+       height="26.629606"
+       x="254.8965"
+       y="761.87433"
+       rx="5"
+       ry="5" />
+    <rect
+       style="font-variation-settings:'wght' 800;fill:#90c2ff;fill-opacity:0.288037;stroke:#d5e7ff;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect20"
+       width="81.665428"
+       height="26.629606"
+       x="255.07008"
+       y="793.88013"
+       rx="5"
+       ry="5" />
+    <rect
+       style="font-variation-settings:'wght' 800;fill:#90c2ff;fill-opacity:0.288037;stroke:#d5e7ff;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21"
+       width="81.665428"
+       height="26.629606"
+       x="255.24367"
+       y="825.62744"
+       rx="5"
+       ry="5" />
+    <rect
+       style="font-variation-settings:'wght' 800;fill:#342e00;fill-opacity:0.288037;stroke:#968700;stroke-width:3;stroke-linejoin:bevel;stroke-opacity:1"
+       id="rect25"
+       width="295.0748"
+       height="73.15963"
+       x="372.46262"
+       y="573.21533"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.3333px;font-family:Inter;-inkscape-font-specification:'Inter, @wght=800';font-variation-settings:'wght' 800;fill:#ffffff;fill-opacity:1;stroke:#119600;stroke-width:3;stroke-linejoin:bevel;stroke-opacity:1"
+       x="518.81598"
+       y="621.79517"
+       id="text25"><tspan
+         sodipodi:role="line"
+         x="518.81598"
+         y="621.79517"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:32px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="tspan25">Memory Prefetch</tspan></text>
+    <rect
+       style="font-variation-settings:'wght' 800;fill:#547aab;fill-opacity:0.490196;stroke:#d5e7ff;stroke-width:3;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect26"
+       width="294.52658"
+       height="200.35191"
+       x="372.73672"
+       y="666.15869"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.3333px;font-family:Inter;-inkscape-font-specification:'Inter, @wght=800';font-variation-settings:'wght' 800;fill:#ffffff;fill-opacity:1;stroke:#119600;stroke-width:3;stroke-linejoin:bevel;stroke-opacity:1"
+       x="519.15204"
+       y="722.51062"
+       id="text26"><tspan
+         sodipodi:role="line"
+         x="519.15204"
+         y="722.51062"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:32px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="tspan26">Data cache</tspan></text>
+  </g>
+</svg>
